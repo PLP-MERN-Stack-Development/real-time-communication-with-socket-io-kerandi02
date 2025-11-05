@@ -409,11 +409,6 @@ Update client `.env` with deployed backend URL.
 - [ ] Custom themes
 - [ ] Message translator
 
-## 👨‍💻 Author
-
-Your Name
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
 
 ## 🙏 Acknowledgments
 
@@ -425,4 +420,3 @@ Your Name
 
 // deployment link ={https://real-time-communication-with-socket-io-z18r.onrender.com}
 
-Made with ❤️ and ☕

@@ -330,24 +330,10 @@ real-time-chat-app/
 ## 📱 Screenshots
 
 ### Login Page
-![Login Page](screenshots/login.png)
+![Login Page]("C:\Users\user\OneDrive\Pictures\Screenshots\Screenshot 2025-11-05 171906.png")
 *User authentication with clean, modern UI*
 
-### Chat Room
-![Chat Room](screenshots/chat-room.png)
-*Real-time messaging with typing indicators and online status*
 
-### Message Reactions
-![Message Reactions](screenshots/reactions.png)
-*React to messages with emojis*
-
-### Mobile View
-![Mobile View](screenshots/mobile.png)
-*Fully responsive design for mobile devices*
-
-### Search Feature
-![Search](screenshots/search.png)
-*Search through conversation history*
 
 ## 🧪 Testing the Application
 
@@ -421,21 +407,7 @@ Update client `.env` with deployed backend URL.
 - [ ] Message forwarding
 - [ ] Pinned messages
 - [ ] Custom themes
-- [ ] Message translation
-
-## 👥 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- [ ] Message translator
 
 ## 👨‍💻 Author
 
@@ -451,8 +423,6 @@ Your Name
 - Tailwind CSS
 - All contributors who helped with this project
 
----
-
-**⭐ If you found this project helpful, please give it a star!**
+// deployment link ={https://real-time-communication-with-socket-io-z18r.onrender.com}
 
 Made with ❤️ and ☕
